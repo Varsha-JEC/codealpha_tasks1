@@ -2,6 +2,7 @@
 The Hungman Game Project 
 
 **Features**
+
 5 predefined words
 
 6 chances for incorrect guesses
